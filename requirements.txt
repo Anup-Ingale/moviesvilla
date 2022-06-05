@@ -1,0 +1,11 @@
+asgiref==3.5.2
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+Django==3.2.5
+idna==3.3
+mysqlclient==2.1.0
+pytz==2022.1
+requests==2.27.1
+sqlparse==0.4.2
+tmdbv3api==1.7.6
+urllib3==1.26.9
